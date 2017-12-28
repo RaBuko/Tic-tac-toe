@@ -9,7 +9,7 @@ class Menu_Panel extends JPanel implements ActionListener
     private JButton start_gry_button = new JButton("ROZPOCZNIJ GRĘ");
     private JButton wyjdz_button = new JButton("Wyjdź");
     private JLabel welcome_label = new JLabel(WELCOME_STR);
-    private JLabel podpis = new JLabel("\u00a9 Rafał Bukowski");
+    private JLabel podpis = new JLabel("\u00a9 Jan Nowak");
 
     Menu_Panel()
     {
